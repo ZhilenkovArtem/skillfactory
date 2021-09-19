@@ -1,4 +1,4 @@
 # skillfactory
 Repository for learning on [skillfactory](https://lms.skillfactory.ru)
 
-Начало работы в Git через VisualStudio.
+* РљР°РєРѕР№-С‚Рѕ СЂСѓСЃСЃРєРёР№ С‚РµРєСЃС‚.
