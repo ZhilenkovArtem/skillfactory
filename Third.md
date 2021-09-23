@@ -1,0 +1,1 @@
+The change in merge-commit.
