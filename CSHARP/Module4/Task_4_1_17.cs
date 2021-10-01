@@ -9,6 +9,7 @@ namespace Module4
 			Console.BackgroundColor = backColor;
 			Console.ForegroundColor = frontColor;
 			Console.WriteLine("Your color is {0}!", backColor);
+			Console.ReadKey();
 		}
 
 		public static void Main()
