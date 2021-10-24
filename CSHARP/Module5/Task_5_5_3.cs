@@ -4,11 +4,11 @@ namespace Module5
 {
     class Task_5_5_3
     {
-        static void Main(string[] args)
+        /*static void Main(string[] args)
         {
             Echo(Console.ReadLine());
             Console.ReadKey();
-        }
+        }*/
         static void Echo(string str)
         {
             Console.BackgroundColor = (ConsoleColor)str.Length;
