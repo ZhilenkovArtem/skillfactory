@@ -1,0 +1,16 @@
+C:\Users\Артем Жиленков\Source\Repos\skillfactory\CSHARP\Module7\bin\Debug\net5.0\Module7.exe
+C:\Users\Артем Жиленков\Source\Repos\skillfactory\CSHARP\Module7\bin\Debug\net5.0\Module7.deps.json
+C:\Users\Артем Жиленков\Source\Repos\skillfactory\CSHARP\Module7\bin\Debug\net5.0\Module7.runtimeconfig.json
+C:\Users\Артем Жиленков\Source\Repos\skillfactory\CSHARP\Module7\bin\Debug\net5.0\Module7.runtimeconfig.dev.json
+C:\Users\Артем Жиленков\Source\Repos\skillfactory\CSHARP\Module7\bin\Debug\net5.0\Module7.dll
+C:\Users\Артем Жиленков\Source\Repos\skillfactory\CSHARP\Module7\bin\Debug\net5.0\ref\Module7.dll
+C:\Users\Артем Жиленков\Source\Repos\skillfactory\CSHARP\Module7\bin\Debug\net5.0\Module7.pdb
+C:\Users\Артем Жиленков\Source\Repos\skillfactory\CSHARP\Module7\obj\Debug\net5.0\Module7.csproj.AssemblyReference.cache
+C:\Users\Артем Жиленков\Source\Repos\skillfactory\CSHARP\Module7\obj\Debug\net5.0\Module7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Артем Жиленков\Source\Repos\skillfactory\CSHARP\Module7\obj\Debug\net5.0\Module7.AssemblyInfoInputs.cache
+C:\Users\Артем Жиленков\Source\Repos\skillfactory\CSHARP\Module7\obj\Debug\net5.0\Module7.AssemblyInfo.cs
+C:\Users\Артем Жиленков\Source\Repos\skillfactory\CSHARP\Module7\obj\Debug\net5.0\Module7.csproj.CoreCompileInputs.cache
+C:\Users\Артем Жиленков\Source\Repos\skillfactory\CSHARP\Module7\obj\Debug\net5.0\Module7.dll
+C:\Users\Артем Жиленков\Source\Repos\skillfactory\CSHARP\Module7\obj\Debug\net5.0\ref\Module7.dll
+C:\Users\Артем Жиленков\Source\Repos\skillfactory\CSHARP\Module7\obj\Debug\net5.0\Module7.pdb
+C:\Users\Артем Жиленков\Source\Repos\skillfactory\CSHARP\Module7\obj\Debug\net5.0\Module7.genruntimeconfig.cache
